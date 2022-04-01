@@ -21,7 +21,7 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/hashicorp/consul/api v1.8.1
 	github.com/hashicorp/golang-lru v0.5.4
-	github.com/json-iterator/go v1.1.11
+	github.com/json-iterator/go v1.1.12
 	github.com/klauspost/compress v1.13.6
 	github.com/lucas-clemente/quic-go v0.24.0
 	github.com/megaease/easemesh-api v1.3.3
@@ -50,13 +50,12 @@ require (
 	go.etcd.io/etcd/server/v3 v3.5.0
 	go.uber.org/zap v1.19.0
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
-	golang.org/x/net v0.0.0-20211101193420-4a448f8816b3 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20211030160813-b3129d9d1021
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.22.3
-	k8s.io/apimachinery v0.22.3
-	k8s.io/client-go v0.22.3
+	k8s.io/api v0.23.5
+	k8s.io/apimachinery v0.23.5
+	k8s.io/client-go v0.23.5
 	knative.dev/client v0.26.0
 	knative.dev/serving v0.26.0
 )
